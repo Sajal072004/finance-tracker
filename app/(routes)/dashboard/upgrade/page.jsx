@@ -13,7 +13,7 @@ const AboutMe = () => {
           <p className="mt-2 text-gray-600">A little bit about who I am and what I do.</p>
         </div>
         
-        {/* Profile Section */}
+        
         <div className="flex flex-col md:flex-row items-center">
           <div className="md:w-1/3">
             <img
